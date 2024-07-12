@@ -1,2 +1,5 @@
-# CloudAssignment2
-This is my Cloud Computing Assignment 2.
+# Instructions
+ - Step one: Clone the repository.
+ - 
+
+
